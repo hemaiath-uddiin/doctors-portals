@@ -1,0 +1,24 @@
+
+ [ 
+    { 
+        "id": 1 , 
+        "title": "Flourid treatment", 
+        "img": "../public/teeth.jpeg",
+        "des": " Lorem ipsum dolor sit amet." 
+
+    } ,
+    { 
+        "id": 2 , 
+        "title": "cavity filling", 
+        "img": "",
+        "des": " Lorem ipsum dolor sit amet." 
+
+    } ,
+    { 
+        "id": 3 , 
+        "title": "Teeth whitening", 
+        "img": "",
+        "des": " Lorem ipsum dolor sit amet." 
+
+    }
+]
