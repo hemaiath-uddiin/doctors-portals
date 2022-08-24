@@ -5,6 +5,9 @@ import Navbar from './Pages/Navbar';
 import { Routes, Route, } from "react-router-dom";
 
 import About from './Pages/About';
+import Appointment from './Pages/Appointment/Appointment';
+import MakeAppointment from './Pages/Appointment/MakeAppointment';
+
 function App() {
   return (
     <div className="App">
@@ -14,6 +17,12 @@ function App() {
 
         <Route index path="/" element={<Home />}></Route>
           <Route path="about" element={<About></About>}> </Route> 
+          <Route path="appointment" element={<Appointment></Appointment>}> </Route>  
+          <Route path="appoint" element={<MakeAppointment></MakeAppointment>}> </Route>  
+         
+
+     
+            
         
 
 
